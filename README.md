@@ -1,1 +1,1 @@
-# omnifoods
+# omni-foods
